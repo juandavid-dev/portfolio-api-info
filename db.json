@@ -1,0 +1,110 @@
+{
+  "experienciaLaboral": [
+    {
+      "empresa": "Comfama, Medellín",
+      "puesto": "Software Developer",
+      "fechaInicio": "Febrero 2023",
+      "fechaFin": "Julio 2023",
+      "descripcion": [
+        "Desarrollé e implementé nuevas funcionalidades para mejorar la experiencia del usuario.",
+        "Realicé pruebas exhaustivas de funcionalidades para garantizar una experiencia impecable."
+      ]
+    },
+    {
+      "empresa": "Wolkvox, Medellín",
+      "puesto": "Software Developer",
+      "fechaInicio": "Julio 2022",
+      "fechaFin": "Diciembre 2022",
+      "descripcion": [
+        "Contribuí al desarrollo e implementación de nuevas características fundamentales para Wolkvox Manager.",
+        "Desarrollé tableros de estadísticas embebidos para visualizar datos clave de los usuarios."
+      ]
+    },
+    {
+      "empresa": "CESDE, Medellín",
+      "puesto": "Software Developer (Proyecto Tekers)",
+      "fechaInicio": "Febrero 2022",
+      "fechaFin": "Julio 2022",
+      "descripcion": [
+        "Implementé soluciones de automatización de procesos para reducir errores humanos.",
+        "Desarrollé soluciones de software utilizando la Suite Power Platform de Microsoft."
+      ]
+    },
+    {
+      "empresa": "Ingeniería y Encofrados, Sabaneta",
+      "puesto": "Analista de Sistemas",
+      "fechaInicio": "Julio 2016",
+      "fechaFin": "Septiembre 2021",
+      "descripcion": [
+        "Realicé análisis de requerimientos para alinear soluciones tecnológicas con las necesidades del negocio.",
+        "Gestioné servidores y máquinas virtuales en entornos GNU/Linux y Windows.",
+        "Supervisé y gestioné la infraestructura de telefonía IP con FreePBX.",
+        "Administré el Directorio Activo, implementando políticas de seguridad sólidas.",
+        "Implementé y gestioné soluciones de seguridad, incluyendo el firewall Fortinet.",
+        "Supervisé la administración de redes, sistemas de telecomunicaciones y ciberseguridad.",
+        "Desarrollé y gestioné la página web y administración de dominios.",
+        "Participé en la implementación y administración de las soluciones ERP Siesa Enterprise.",
+        "Instalé, configuré y actualicé hardware y software.",
+        "Brindé soporte técnico y asesoría a usuarios finales."
+      ]
+    },
+    {
+      "empresa": "Inversiones Ferbienes, Sabaneta",
+      "puesto": "Auxiliar de Sistemas",
+      "fechaInicio": "Enero 2015",
+      "fechaFin": "Junio 2016",
+      "descripcion": [
+        "Implementé actualizaciones y configuraciones en hardware y software.",
+        "Realicé mantenimiento regular de equipos informáticos.",
+        "Diagnosticaba y resolvía fallas y errores en equipos informáticos.",
+        "Brindé soporte técnico y asesoría al usuario final."
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "institucion": "SENA",
+      "titulo": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
+      "fechaInicio": "Febrero 2021",
+      "fechaFin": "Febrero 2023"
+    },
+    {
+      "institucion": "CESDE",
+      "titulo": "Técnico en Desarrollo de Software",
+      "fechaInicio": "Febrero 2019",
+      "fechaFin": "Diciembre 2020"
+    },
+    {
+      "institucion": "CESDE",
+      "titulo": "Técnico en Diseño Gráfico Digital",
+      "fechaInicio": "Julio 2016",
+      "fechaFin": "Julio 2018"
+    },
+    {
+      "institucion": "CENSA",
+      "titulo": "Técnico en Instalación de Redes y Telecomunicaciones",
+      "fechaInicio": "Febrero 2014",
+      "fechaFin": "Diciembre 2015"
+    }
+  ],
+  "formacionComplementaria": [
+    {
+      "institucion": "Cousera",
+      "titulo": "Certificado Profesional / Ciberseguridad de Google",
+      "fechaInicio": "Septiembre 2023",
+      "estado": "En Curso"
+    },
+    {
+      "institucion": "Cousera",
+      "titulo": "Certificado Profesional / Diseño de Experiencia del Usuario (UX) de Google",
+      "fechaInicio": "Mayo 2023",
+      "fechaFin": "Septiembre 2023"
+    },
+    {
+      "institucion": "Alura",
+      "titulo": "Programa Oracle Next Education F2 T5 / Front-End Developer",
+      "fechaInicio": "Abril 2023",
+      "fechaFin": "Agosto 2023"
+    }
+  ]
+}
