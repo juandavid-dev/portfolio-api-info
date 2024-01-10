@@ -106,5 +106,87 @@
       "titulo": "Programa Oracle Next Education F2 T5 / Front-End Developer",
       "fecha": "Abril 2023 - Agosto 2023"
     }
+  ],
+  "proyectos": [
+    {
+      "id":1,
+      "nombre": "Página de Producto",
+      "descripcion": "En este proyecto, creé una página web de producto con carrito y otras características, para su construcción utilice React.js y SCSS.",
+      "imagenURL": "/pagina-producto.jpg",
+      "codigoURL": "https://github.com/jdocdev/producto-movies",
+      "previewURL": "https://jdovdev-producto-movies.netlify.app/"
+    },
+    {
+      "id":2,
+      "nombre": "Cotizador de Criptomonedas",
+      "descripcion": "En este proyecto, creé una web app para cotizar criptomonedas, para su construcción utilice React.js y styled components.",
+      "imagenURL": "/cotizador-cripto.jpg",
+      "codigoURL": "https://github.com/jdocdev/cotizador-criptos-react",
+      "previewURL": "https://jdocdev-cotizador-criptomonedas.netlify.app/"
+    },
+    {
+      "id":3,
+      "nombre": "Seguimiento Pacientes para una Veterinaria",
+      "descripcion": "En este proyecto, creé una web app para de citas para una veterinaria, para su construcción utilice React.js y Tailwind CSS.",
+      "imagenURL": "/citas-veterinaria.png",
+      "codigoURL": "https://github.com/jdocdev/citas-react",
+      "previewURL": "https://jdocdev-citas-veterinaria.netlify.app/"
+    },
+    {
+      "id":4,
+      "nombre": "Web App Control de Ingresos",
+      "descripcion": "En este proyecto, creé una web app una para el control de ingresos y gastos, para su construcción utilice React.js y CSS.",
+      "imagenURL": "/control-gastos",
+      "codigoURL": "https://github.com/jdocdev/control-presupuesto-react",
+      "previewURL": "https://jdocdev-control-presupuesto.netlify.app/"
+    },
+    {
+      "id":5,
+      "nombre": "Clon Firefox Monitor",
+      "descripcion": "En este proyecto, recree un sitio web responsive Firefox Monitor, para su construcción utilice HTML, CSS y JS.",
+      "imagenURL": "/firefox-monitor.jpg",
+      "codigoURL": "https://github.com/jdocdev/firefox-monitor",
+      "previewURL": "https://jdocdev.github.io/firefox-monitor/"
+    },
+    {
+      "id":6,
+      "nombre": "Página Tienda de Frutas",
+      "descripcion": "En este proyecto, creé una pagina de para una tienda de frutas responsive, para su construcción utilice HTML, JS y CSS.",
+      "imagenURL": "/firefox-monitor.jpg",
+      "codigoURL": "https://github.com/jdocdev/sitio-tienda-frutas",
+      "previewURL": "https://jdocdev.github.io/sitio-tienda-frutas/"
+    },
+    {
+      "id":7,
+      "nombre": "Carrito de Compras",
+      "descripcion": "En este proyecto, creé un carrito de compras responsive, para su construcción utilice HTML, JS, CSS y Bootstrap.",
+      "imagenURL": "/tienda-frutas.jpg",
+      "codigoURL": "https://github.com/jdocdev/carrito-bootstrap-js",
+      "previewURL": "https://jdocdev.github.io/carrito-bootstrap-js/"
+    },
+    {
+      "id":8,
+      "nombre": "Formulario con Validaciones",
+      "descripcion": "En este proyecto, cree un formulario con condiciones de envío y validaciones visuales, para su construcción utilice HTML, JS, CSS y Bootstrap.",
+      "imagenURL": "/form-validation.png",
+      "codigoURL": "https://github.com/jdocdev/form_contact-bootstrap-js",
+      "previewURL": "https://jdocdev.github.io/form_contact-bootstrap-js/"
+    },
+    {
+      "id":9,
+      "nombre": "Encriptador de Texto",
+      "descripcion": "En este proyecto, creé un encriptador de texto bidireccional y responsive, para su construcción utilice HTML, CSS y JS.",
+      "imagenURL": "/text-encoder.jpg",
+      "codigoURL": "https://github.com/jdocdev/encriptador-de-texto-challenges",
+      "previewURL": "https://jdocdev.github.io/encriptador-de-texto-challenges/"
+    },
+    {
+      "id":10,
+      "nombre": "Tienda Navideña",
+      "descripcion": "En este proyecto, creé un sitio web responsive para Christmas Store, para su construcción utilice HTML, CSS y JS.",
+      "imagenURL": "/christmas-store.jpg",
+      "codigoURL": "https://github.com/jdocdev/WebNavidenaResponsive",
+      "previewURL": "https://jdocdev.github.io/WebNavidenaResponsive/"
+    }
   ]
 }
