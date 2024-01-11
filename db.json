@@ -90,20 +90,20 @@
   "formacionComplementaria": [
     {
       "id":1,
-      "institucion": "Cousera",
-      "titulo": "Certificado Profesional / Ciberseguridad de Google",
+      "institucion": "Google on Cousera",
+      "titulo": "Ciberseguridad de Google",
       "fecha": "Septiembre 2023 - En Curso"
     },
     {
       "id":2,
-      "institucion": "Cousera",
-      "titulo": "Certificado Profesional / Diseño de Experiencia del Usuario (UX) de Google",
+      "institucion": "Google on Cousera",
+      "titulo": "Diseño de Experiencia del Usuario de Google",
       "fecha": "Mayo 2023 - Septiembre 2023"
     },
     {
       "id":3,
-      "institucion": "Alura",
-      "titulo": "Programa Oracle Next Education F2 T5 / Front-End Developer",
+      "institucion": "Oracle on Alura latam",
+      "titulo": "Oracle Next Education Front-End Developer",
       "fecha": "Abril 2023 - Agosto 2023"
     }
   ],
