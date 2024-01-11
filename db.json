@@ -113,7 +113,7 @@
       "nombre": "Página de Producto",
       "descripcion": "En este proyecto, creé una página web de producto con carrito y otras características, para su construcción utilice React.js y SCSS.",
       "tecnologias":["fa-react","fa-sass"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/pagina-producto.jpg",
+      "imagenURL": "pagina-producto.jpg",
       "codigoURL": "https://github.com/jdocdev/producto-movies",
       "previewURL": "https://jdovdev-producto-movies.netlify.app/"
     },
@@ -122,7 +122,7 @@
       "nombre": "Cotizador de Criptomonedas",
       "descripcion": "En este proyecto, creé una web app para cotizar criptomonedas, para su construcción utilice React.js y styled components.",
       "tecnologias":["fa-react","fa-palette"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/cotizador-cripto.jpg",
+      "imagenURL": "cotizador-cripto.jpg",
       "codigoURL": "https://github.com/jdocdev/cotizador-criptos-react",
       "previewURL": "https://jdocdev-cotizador-criptomonedas.netlify.app/"
     },
@@ -131,7 +131,7 @@
       "nombre": "Seguimiento Pacientes para una Veterinaria",
       "descripcion": "En este proyecto, creé una web app para de citas para una veterinaria, para su construcción utilice React.js y Tailwind CSS.",
       "tecnologias":["fa-react","fa-palette"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/citas-veterinaria.png",
+      "imagenURL": "citas-veterinaria.png",
       "codigoURL": "https://github.com/jdocdev/citas-react",
       "previewURL": "https://jdocdev-citas-veterinaria.netlify.app/"
     },
@@ -140,7 +140,7 @@
       "nombre": "Web App Control de Ingresos",
       "descripcion": "En este proyecto, creé una web app una para el control de ingresos y gastos, para su construcción utilice React.js y CSS.",
       "tecnologias":["fa-react","fa-css3-alt"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/control-gastos.jpg",
+      "imagenURL": "control-gastos.jpg",
       "codigoURL": "https://github.com/jdocdev/control-presupuesto-react",
       "previewURL": "https://jdocdev-control-presupuesto.netlify.app/"
     },
@@ -149,7 +149,7 @@
       "nombre": "Clon Firefox Monitor",
       "descripcion": "En este proyecto, recree un sitio web responsive Firefox Monitor, para su construcción utilice HTML, CSS y JS.",
       "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/firefox-monitor.jpg",
+      "imagenURL": "firefox-monitor.jpg",
       "codigoURL": "https://github.com/jdocdev/firefox-monitor",
       "previewURL": "https://jdocdev.github.io/firefox-monitor/"
     },
@@ -158,7 +158,7 @@
       "nombre": "Página Tienda de Frutas",
       "descripcion": "En este proyecto, creé una pagina de para una tienda de frutas responsive, para su construcción utilice HTML, JS y CSS.",
       "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/tienda-frutas.jpg",
+      "imagenURL": "tienda-frutas.jpg",
       "codigoURL": "https://github.com/jdocdev/sitio-tienda-frutas",
       "previewURL": "https://jdocdev.github.io/sitio-tienda-frutas/"
     },
@@ -167,7 +167,7 @@
       "nombre": "Carrito de Compras",
       "descripcion": "En este proyecto, creé un carrito de compras responsive, para su construcción utilice HTML, JS, CSS y Bootstrap.",
       "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/shopping-cart.png",
+      "imagenURL": "shopping-cart.png",
       "codigoURL": "https://github.com/jdocdev/carrito-bootstrap-js",
       "previewURL": "https://jdocdev.github.io/carrito-bootstrap-js/"
     },
@@ -176,7 +176,7 @@
       "nombre": "Formulario con Validaciones",
       "descripcion": "En este proyecto, cree un formulario con condiciones de envío y validaciones visuales, para su construcción utilice HTML, JS, CSS y Bootstrap.",
       "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/form-validation.png",
+      "imagenURL": "form-validation.png",
       "codigoURL": "https://github.com/jdocdev/form_contact-bootstrap-js",
       "previewURL": "https://jdocdev.github.io/form_contact-bootstrap-js/"
     },
@@ -185,7 +185,7 @@
       "nombre": "Encriptador de Texto",
       "descripcion": "En este proyecto, creé un encriptador de texto bidireccional y responsive, para su construcción utilice HTML, CSS y JS.",
       "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/text-encoder.jpg",
+      "imagenURL": "text-encoder.jpg",
       "codigoURL": "https://github.com/jdocdev/encriptador-de-texto-challenges",
       "previewURL": "https://jdocdev.github.io/encriptador-de-texto-challenges/"
     },
@@ -194,7 +194,7 @@
       "nombre": "Tienda Navideña",
       "descripcion": "En este proyecto, creé un sitio web responsive para Christmas Store, para su construcción utilice HTML, CSS y JS.",
       "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/christmas-store.jpg",
+      "imagenURL": "christmas-store.jpg",
       "codigoURL": "https://github.com/jdocdev/WebNavidenaResponsive",
       "previewURL": "https://jdocdev.github.io/WebNavidenaResponsive/"
     },
@@ -203,7 +203,7 @@
       "nombre": "Mi Portafolio sin Fremeworks",
       "descripcion": "Esta es la versión antetior de mi portafolio, para su construcción utilice HTML, CSS y JS.",
       "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
-      "imagenURL": "https://raw.githubusercontent.com/juandavid-dev/portfolio-api-info/main/img/portafolio-anterior.jpg",
+      "imagenURL": "portafolio-anterior.jpg",
       "codigoURL": "https://github.com/jdocdev/portfolio-jdocdev",
       "previewURL": "https://jdocdev.github.io/portfolio-jdocdev/"
     }
