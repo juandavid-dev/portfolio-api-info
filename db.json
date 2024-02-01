@@ -2,6 +2,15 @@
   "experienciaLaboral": [
     {
       "id":1,
+      "empresa": "Wikan BPO, Medellín",
+      "puesto": "Full Stack Software Developer",
+      "fecha": "Enero 2023 - Actualidad",
+      "descripcion": [
+        "— Desarrollo e implementación de nuevas funcionalidades para la aplicación mi.appta.com.co \n"
+      ]
+    },
+    {
+      "id":2,
       "empresa": "Comfama, Medellín",
       "puesto": "Software Developer",
       "fecha": "Febrero 2023 - Julio 2023",
@@ -11,7 +20,7 @@
       ]
     },
     {
-      "id":2,
+      "id":3,
       "empresa": "Wolkvox, Medellín",
       "puesto": "Software Developer",
       "fecha": "Julio 2022 - Diciembre 2022",
@@ -21,7 +30,7 @@
       ]
     },
     {
-      "id":3,
+      "id":4,
       "empresa": "CESDE, Medellín",
       "puesto": "Software Developer",
       "fecha": "Febrero 2022 - Julio 2022",
@@ -31,7 +40,7 @@
       ]
     },
     {
-      "id":4,
+      "id":5,
       "empresa": "Ingeniería y Encofrados, Sabaneta",
       "puesto": "Analista de Sistemas",
       "fecha": "Julio 2016 - Septiembre 2021",
@@ -49,7 +58,7 @@
       ]
     },
     {
-      "id":5,
+      "id":6,
       "empresa": "Inversiones Ferbienes, Sabaneta",
       "puesto": "Auxiliar de Sistemas",
       "fecha": "Enero 2015 - Junio 2016",
