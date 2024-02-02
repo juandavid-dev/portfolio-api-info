@@ -3,7 +3,7 @@
     {
       "id":1,
       "empresa": "Wikan BPO, Medellín",
-      "puesto": "Full Stack Software Developer",
+      "puesto": "FullStack Software Developer",
       "fecha": "Enero 2023 - Actualidad",
       "descripcion": [
         "— Desarrollo e implementación de nuevas funcionalidades para la aplicación mi.appta.com.co \n"
@@ -12,7 +12,7 @@
     {
       "id":2,
       "empresa": "Comfama, Medellín",
-      "puesto": "Software Developer",
+      "puesto": "Frontend Software Developer",
       "fecha": "Febrero 2023 - Julio 2023",
       "descripcion": [
         "— Desarrollé e implementé nuevas funcionalidades para mejorar la experiencia del usuario.\n",
@@ -22,7 +22,7 @@
     {
       "id":3,
       "empresa": "Wolkvox, Medellín",
-      "puesto": "Software Developer",
+      "puesto": "Backend Software Developer",
       "fecha": "Julio 2022 - Diciembre 2022",
       "descripcion": [
         "— Contribuí al desarrollo e implementación de nuevas características fundamentales para Wolkvox Manager.\n",
@@ -32,7 +32,7 @@
     {
       "id":4,
       "empresa": "CESDE, Medellín",
-      "puesto": "Software Developer",
+      "puesto": "Microsoft Solution Developer",
       "fecha": "Febrero 2022 - Julio 2022",
       "descripcion": [
         "— Implementé soluciones de automatización de procesos para reducir errores humanos.\n",
