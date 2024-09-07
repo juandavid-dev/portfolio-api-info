@@ -4,9 +4,11 @@
       "id":1,
       "empresa": "Wikan BPO, Medellín",
       "puesto": "FullStack Software Developer",
-      "fecha": "Enero 2024 - Actualidad",
+      "fecha": "Enero 2024 - Septiembre 2024",
       "descripcion": [
-        "— Desarrollo e implementación de nuevas funcionalidades para la aplicación mi.appta.com.co \n"
+        "— Desarrolle e implemente nuevas funcionalidades para la aplicación Appta, un software de gestión del Talento Humano. \n",
+        "— Personalice las funcionalidades de Appta según las necesidades específicas de cada negocio. \n",
+        "— Trabaje en el desarrollo de un nuevo proyecto de aplicación que tiene el objetivo de facilitar la gestión de pagos de nómina para pequeñas empresas, que optimizara sus procesos financieros y mejorara la eficiencia en el manejo de sus transacciones. \n"
       ]
     },
     {
@@ -15,8 +17,8 @@
       "puesto": "Frontend Software Developer",
       "fecha": "Febrero 2023 - Julio 2023",
       "descripcion": [
-        "— Desarrollé e implementé nuevas funcionalidades para mejorar la experiencia del usuario.\n",
-        "— Realicé pruebas exhaustivas de funcionalidades para garantizar una experiencia impecable.\n"
+        "— Desarrollé e implementé nuevas funcionalidades destinadas a mejorar significativamente la experiencia del usuario en el portal de servicios del .com.\n",
+        "— Realicé pruebas exhaustivas de funcionalidades de manera manual para identificar y solucionar posibles problemas antes de que llegaran a los usuarios finales, garantizando así una experiencia de usuario impecable.\n"
       ]
     },
     {
@@ -25,8 +27,8 @@
       "puesto": "Backend Software Developer",
       "fecha": "Julio 2022 - Diciembre 2022",
       "descripcion": [
-        "— Contribuí al desarrollo e implementación de nuevas características fundamentales para Wolkvox Manager.\n",
-        "— Desarrollé tableros de estadísticas embebidos para visualizar datos clave de los usuarios.\n"
+        "— Contribuí al desarrollo e implementación de nuevas características fundamentales para el producto Wolkvox Manager, fortaleciendo su funcionalidad y valor para los usuarios.\n",
+        "— Desarrollé tableros de estadísticas embebidos para visualizar datos clave de los usuarios en el producto Wolkvox Manager, lo que proporcionó información valiosa para la toma de decisiones y mejoró la usabilidad del producto.\n"
       ]
     },
     {
@@ -35,8 +37,8 @@
       "puesto": "Microsoft Solution Developer",
       "fecha": "Febrero 2022 - Julio 2022",
       "descripcion": [
-        "— Implementé soluciones de automatización de procesos para reducir errores humanos.\n",
-        "— Desarrollé soluciones de software utilizando la Suite Power Platform de Microsoft.\n"
+        "— Implementé soluciones de automatización de procesos que resultaron en una reducción significativa de los errores humanos, una mayor precisión de los datos y permitieron que los empleados se centraran en tareas de mayor valor.\n",
+        "— Desarrollé soluciones de software utilizando la Suite Power Platform de Microsoft para abordar desafíos específicos, optimizando así los flujos de trabajo internos y mejorando la eficiencia operativa de la organización.\n"
       ]
     },
     {
@@ -119,7 +121,7 @@
   "habilidades": [
     {
       "id":1,
-      "tecnologias": ["HTML","CSS","SASS","Styled-Components","Tailwind","JavaScript","Responsive Design","PHP","SQL","Vue","React","Gatsby","API REST","Node","Express","WordPress","MySQL","Microsoft SQL","Microsoft Power Platform","Azure DevOps","Git","GitHub","BEM", "Atomic Design","SCRUM","Agilismo"]
+      "tecnologias": ["HTML","CSS","SASS","Tailwind","Bootstrap","JavaScript","Responsive Design","PHP","SQL","Vue","React","Gatsby","API REST","Node","Express","WordPress","MySQL","Microsoft SQL","Microsoft Power Platform","Azure DevOps","Git","GitHub","BEM", "Atomic Design","SCRUM","Agilismo"]
     }
   ]
 }
