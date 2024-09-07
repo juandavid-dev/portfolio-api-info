@@ -121,7 +121,7 @@
   "habilidades": [
     {
       "id":1,
-      "tecnologias": ["HTML","CSS","SASS","Tailwind","Bootstrap","JavaScript","Responsive Design","PHP","SQL","Vue","React","Gatsby","API REST","Node","Express","WordPress","MySQL","Microsoft SQL","Microsoft Power Platform","Azure DevOps","Git","GitHub","BEM", "Atomic Design","SCRUM","Agilismo"]
+      "tecnologias": ["HTML","CSS","SASS","Tailwind","Bootstrap","JavaScript","TypeScript","Responsive Design","PHP","SQL","Vue","React","Gatsby","API REST","Node","Express","WordPress","MySQL","Microsoft SQL","Microsoft Power Platform","Azure DevOps","Git","GitHub","BEM", "Atomic Design","SCRUM","Agilismo"]
     }
   ]
 }
