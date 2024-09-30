@@ -1,7 +1,7 @@
 {
   "experienciaLaboral": [
     {
-      "id":1,
+      "id": 1,
       "empresa": "Wikan BPO, Medellín",
       "puesto": "FullStack Software Developer",
       "fecha": "Enero 2024 - Septiembre 2024",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "id":2,
+      "id": 2,
       "empresa": "Comfama, Medellín",
       "puesto": "Frontend Software Developer",
       "fecha": "Febrero 2023 - Julio 2023",
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "id":3,
+      "id": 3,
       "empresa": "Wolkvox, Medellín",
       "puesto": "Backend Software Developer",
       "fecha": "Julio 2022 - Diciembre 2022",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "id":4,
+      "id": 4,
       "empresa": "CESDE, Medellín",
       "puesto": "Microsoft Solution Developer",
       "fecha": "Febrero 2022 - Julio 2022",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "id":5,
+      "id": 5,
       "empresa": "Ingeniería y Encofrados, Sabaneta",
       "puesto": "Analista de Sistemas",
       "fecha": "Julio 2016 - Septiembre 2021",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "id":6,
+      "id": 6,
       "empresa": "Inversiones Ferbienes, Sabaneta",
       "puesto": "Auxiliar de Sistemas",
       "fecha": "Enero 2015 - Junio 2016",
@@ -74,25 +74,25 @@
   ],
   "formacion": [
     {
-      "id":1,
+      "id": 1,
       "institucion": "SENA",
       "titulo": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
       "fecha": "Febrero 2021 - Febrero 2023"
     },
     {
-      "id":2,
+      "id": 2,
       "institucion": "CESDE",
       "titulo": "Técnico en Desarrollo de Software",
       "fecha": "Febrero 2019 - Diciembre 2020"
     },
     {
-      "id":3,
+      "id": 3,
       "institucion": "CESDE",
       "titulo": "Técnico en Diseño Gráfico Digital",
       "fecha": "Julio 2016 - Julio 2018"
     },
     {
-      "id":4,
+      "id": 4,
       "institucion": "CENSA",
       "titulo": "Técnico en Instalación de Redes y Telecomunicaciones",
       "fecha": "Febrero 2014 - Diciembre 2015"
@@ -100,28 +100,52 @@
   ],
   "formacionComplementaria": [
     {
-      "id":1,
+      "id": 1,
       "institucion": "Google on Cousera",
       "titulo": "Ciberseguridad de Google",
       "fecha": "Septiembre 2023 - Febrero 2024"
     },
     {
-      "id":2,
+      "id": 2,
       "institucion": "Google on Cousera",
       "titulo": "Diseño de Experiencia del Usuario de Google",
       "fecha": "Mayo 2023 - Septiembre 2023"
     },
     {
-      "id":3,
+      "id": 3,
       "institucion": "Oracle on Alura latam",
       "titulo": "Oracle Next Education Front-End Developer",
       "fecha": "Abril 2023 - Agosto 2023"
     }
-  ],  
+  ],
   "habilidades": [
     {
-      "id":1,
-      "tecnologias": ["HTML","CSS","SASS","Tailwind","Bootstrap","JavaScript","TypeScript","Responsive Design","PHP","SQL","Vue","React","Gatsby","API REST","Node","Express","WordPress","MySQL","Microsoft SQL","Microsoft Power Platform","Azure DevOps","Git","GitHub","BEM", "Atomic Design","SCRUM","Agilismo"]
+      "id": 1,
+      "tecnologias": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "SQL",
+        "React",
+        "Vue",
+        "Laravel",
+        "APIs REST",
+        "SASS",
+        "Tailwind",
+        "Bootstrap",
+        "WordPress",
+        "UX/UI",
+        "Responsive Design",
+        "BEM",
+        "Atomic Design",
+        "Microsoft Power Platform",
+        "Azure DevOps",
+        "Git",
+        "SCRUM",
+        "Agilismo"
+      ]
     }
   ]
 }
