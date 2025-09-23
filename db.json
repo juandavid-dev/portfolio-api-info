@@ -2,6 +2,18 @@
   "experienciaLaboral": [
     {
       "id": 1,
+      "empresa": "Granada Software s.a.s, Medellín",
+      "puesto": "Web Software Developer",
+      "fecha": "Octubre 2024 - Actualidad",
+      "descripcion": [
+        "— Desarrollo e implemento nuevas funcionalidades en los sistemas de la empresa Granada Software s.a.s, incluyendo Syscar ERP, Sys-Nómina, Ctrl-Tráfico, Puestos de Control App y Ctrl Conductor App, adaptándolos a las necesidades del negocio.",
+        "— Proporciono soporte técnico y solución de errores (bugs) en las aplicaciones, garantizando un rendimiento estable y confiable en cada implementación.",
+        "— Elaboro documentación técnica detallada de las mejoras, nuevas funcionalidades y correcciones realizadas, facilitando la comprensión, el mantenimiento y la continuidad del desarrollo del software.",
+        "— Desarrollo front end con Angular y colaboración en otras áreas del stack (otras aptitudes relacionadas)."
+      ]
+    },
+    {
+      "id": 2,
       "empresa": "Wikan BPO, Medellín",
       "puesto": "FullStack Software Developer",
       "fecha": "Enero 2024 - Septiembre 2024",
@@ -12,7 +24,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "empresa": "Comfama, Medellín",
       "puesto": "Frontend Software Developer",
       "fecha": "Febrero 2023 - Julio 2023",
@@ -22,7 +34,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "empresa": "Wolkvox, Medellín",
       "puesto": "Backend Software Developer",
       "fecha": "Julio 2022 - Diciembre 2022",
@@ -32,7 +44,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "empresa": "CESDE, Medellín",
       "puesto": "Microsoft Solution Developer",
       "fecha": "Febrero 2022 - Julio 2022",
@@ -42,7 +54,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "empresa": "Ingeniería y Encofrados, Sabaneta",
       "puesto": "Analista de Sistemas",
       "fecha": "Julio 2016 - Septiembre 2021",
@@ -60,7 +72,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "empresa": "Inversiones Ferbienes, Sabaneta",
       "puesto": "Auxiliar de Sistemas",
       "fecha": "Enero 2015 - Junio 2016",
@@ -129,6 +141,9 @@
         "PHP",
         "SQL",
         "React",
+        "React Native",
+        "Flutter",
+        "Angular",
         "Vue",
         "Laravel",
         "APIs REST",
