@@ -6,10 +6,9 @@
       "puesto": "Web Software Developer",
       "fecha": "Octubre 2024 - Actualidad",
       "descripcion": [
-        "— Desarrollo e implemento nuevas funcionalidades en los sistemas de la empresa Granada Software s.a.s, incluyendo Syscar ERP, Sys-Nómina, Ctrl-Tráfico, Puestos de Control App y Ctrl Conductor App, adaptándolos a las necesidades del negocio.",
-        "— Proporciono soporte técnico y solución de errores (bugs) en las aplicaciones, garantizando un rendimiento estable y confiable en cada implementación.",
-        "— Elaboro documentación técnica detallada de las mejoras, nuevas funcionalidades y correcciones realizadas, facilitando la comprensión, el mantenimiento y la continuidad del desarrollo del software.",
-        "— Desarrollo front end con Angular y colaboración en otras áreas del stack (otras aptitudes relacionadas)."
+        "— Desarrollo e implementación de nuevas funcionalidades en sistemas ERP (Syscar ERP, Sys-Nómina) y aplicaciones móviles (Ctrl-Tráfico, Ctrl Conductor).",
+        "— Soporte técnico y solución de errores (bugs) garantizando rendimiento estable.",
+        "— Elaboración de documentación técnica detallada para continuidad del desarrollo."
       ]
     },
     {
@@ -18,9 +17,9 @@
       "puesto": "FullStack Software Developer",
       "fecha": "Enero 2024 - Septiembre 2024",
       "descripcion": [
-        "— Desarrolle e implemente nuevas funcionalidades para la aplicación Appta, un software de gestión del Talento Humano. \n",
-        "— Personalice las funcionalidades de Appta según las necesidades específicas de cada negocio. \n",
-        "— Trabaje en el desarrollo de un nuevo proyecto de aplicación que tiene el objetivo de facilitar la gestión de pagos de nómina para pequeñas empresas, que optimizara sus procesos financieros y mejorara la eficiencia en el manejo de sus transacciones. \n"
+        "— Desarrollo e implementación de funcionalidades para Appta, software de gestión del Talento Humano.",
+        "— Personalización de funcionalidades según necesidades específicas de cada negocio.",
+        "— Desarrollo de nueva aplicación para gestión de pagos de nómina PYME."
       ]
     },
     {
@@ -29,8 +28,8 @@
       "puesto": "Frontend Software Developer",
       "fecha": "Febrero 2023 - Julio 2023",
       "descripcion": [
-        "— Desarrollé e implementé nuevas funcionalidades destinadas a mejorar significativamente la experiencia del usuario en el portal de servicios del .com.\n",
-        "— Realicé pruebas exhaustivas de funcionalidades de manera manual para identificar y solucionar posibles problemas antes de que llegaran a los usuarios finales, garantizando así una experiencia de usuario impecable.\n"
+        "— Desarrollo e implementación de nuevas funcionalidades en portal de servicios corporativo.",
+        "— Pruebas exhaustivas de funcionalidades para identificar y solucionar problemas antes de usuarios finales."
       ]
     },
     {
@@ -39,8 +38,8 @@
       "puesto": "Backend Software Developer",
       "fecha": "Julio 2022 - Diciembre 2022",
       "descripcion": [
-        "— Contribuí al desarrollo e implementación de nuevas características fundamentales para el producto Wolkvox Manager, fortaleciendo su funcionalidad y valor para los usuarios.\n",
-        "— Desarrollé tableros de estadísticas embebidos para visualizar datos clave de los usuarios en el producto Wolkvox Manager, lo que proporcionó información valiosa para la toma de decisiones y mejoró la usabilidad del producto.\n"
+        "— Desarrollo e implementación de nuevas características para Wolkvox Manager.",
+        "— Creación de tableros de estadísticas embebidos para visualizar datos clave de usuarios."
       ]
     },
     {
@@ -49,8 +48,8 @@
       "puesto": "Microsoft Solution Developer",
       "fecha": "Febrero 2022 - Julio 2022",
       "descripcion": [
-        "— Implementé soluciones de automatización de procesos que resultaron en una reducción significativa de los errores humanos, una mayor precisión de los datos y permitieron que los empleados se centraran en tareas de mayor valor.\n",
-        "— Desarrollé soluciones de software utilizando la Suite Power Platform de Microsoft para abordar desafíos específicos, optimizando así los flujos de trabajo internos y mejorando la eficiencia operativa de la organización.\n"
+        "— Implementación de soluciones de automatización de procesos con Power Platform.",
+        "— Reducción de errores humanos y mejora de precisión de datos."
       ]
     },
     {
@@ -59,16 +58,14 @@
       "puesto": "Analista de Sistemas",
       "fecha": "Julio 2016 - Septiembre 2021",
       "descripcion": [
-        "— Realicé análisis de requerimientos para alinear soluciones tecnológicas con las necesidades del negocio.\n",
-        "— Gestioné servidores y máquinas virtuales en entornos GNU/Linux y Windows.\n",
-        "— Supervisé y gestioné la infraestructura de telefonía IP con FreePBX.\n",
-        "— Administré el Directorio Activo, implementando políticas de seguridad sólidas.\n",
-        "— Implementé y gestioné soluciones de seguridad, incluyendo el firewall Fortinet.\n",
-        "— Supervisé la administración de redes, sistemas de telecomunicaciones y ciberseguridad.\n",
-        "— Desarrollé y gestioné la página web y administración de dominios.\n",
-        "— Participé en la implementación y administración de las soluciones ERP Siesa Enterprise.\n",
-        "— Instalé, configuré y actualicé hardware y software.\n",
-        "— Brindé soporte técnico y asesoría a usuarios finales.\n"
+        "— Gestión de servidores y máquinas virtuales en entornos GNU/Linux y Windows.",
+        "— Administración de infraestructura de telefonía IP con FreePBX.",
+        "— Implementación y gestión del Directorio Activo (Active Directory) con políticas de seguridad.",
+        "— Configuración y administración de firewall Fortinet para protección perimetral.",
+        "— Supervisión de redes, telecomunicaciones y ciberseguridad.",
+        "— Implementación de estrategias de backup y recuperación de datos.",
+        "— Implementación y administración de soluciones ERP Siesa Enterprise.",
+        "— Soporte técnico y asesoría a usuarios finales."
       ]
     },
     {
@@ -77,10 +74,9 @@
       "puesto": "Auxiliar de Sistemas",
       "fecha": "Enero 2015 - Junio 2016",
       "descripcion": [
-        "— Implementé actualizaciones y configuraciones en hardware y software.\n",
-        "— Realicé mantenimiento regular de equipos informáticos.\n",
-        "— Diagnosticaba y resolvía fallas y errores en equipos informáticos.\n",
-        "— Brindé soporte técnico y asesoría al usuario final.\n"
+        "— Mantenimiento preventivo y correctivo de equipos informáticos.",
+        "— Diagnóstico y resolución de fallas de hardware y software.",
+        "— Soporte técnico directo a usuarios finales."
       ]
     }
   ],
@@ -113,13 +109,13 @@
   "formacionComplementaria": [
     {
       "id": 1,
-      "institucion": "Google on Cousera",
+      "institucion": "Google on Coursera",
       "titulo": "Ciberseguridad de Google",
       "fecha": "Septiembre 2023 - Febrero 2024"
     },
     {
       "id": 2,
-      "institucion": "Google on Cousera",
+      "institucion": "Google on Coursera",
       "titulo": "Diseño de Experiencia del Usuario de Google",
       "fecha": "Mayo 2023 - Septiembre 2023"
     },
@@ -141,25 +137,35 @@
         "PHP",
         "SQL",
         "React",
-        "React Native",
-        "Flutter",
+        "Vue.js",
         "Angular",
-        "Vue",
         "Laravel",
+        "Node.js",
         "APIs REST",
+        "GraphQL",
         "SASS",
         "Tailwind",
         "Bootstrap",
-        "WordPress",
-        "UX/UI",
-        "Responsive Design",
-        "BEM",
-        "Atomic Design",
-        "Microsoft Power Platform",
-        "Azure DevOps",
+        "Dart",
+        "Flutter",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
         "Git",
+        "GitHub",
+        "Docker",
+        "CI/CD",
+        "GitHub Copilot",
+        "Cursor AI",
+        "Claude",
+        "ChatGPT",
+        "Prompt Engineering",
+        "OpenCode",
+        "Hermes CLI",
         "SCRUM",
-        "Agilismo"
+        "Kanban",
+        "BEM",
+        "Atomic Design"
       ]
     }
   ]
