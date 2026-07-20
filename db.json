@@ -5,79 +5,49 @@
       "empresa": "Granada Software s.a.s, Medellín",
       "puesto": "Web Software Developer",
       "fecha": "Octubre 2024 - Actualidad",
-      "descripcion": [
-        "— Desarrollo e implementación de nuevas funcionalidades en sistemas ERP (Syscar ERP, Sys-Nómina) y aplicaciones móviles (Ctrl-Tráfico, Ctrl Conductor).",
-        "— Soporte técnico y solución de errores (bugs) garantizando rendimiento estable.",
-        "— Elaboración de documentación técnica detallada para continuidad del desarrollo."
-      ]
+      "descripcion": "— Desarrollo e implementación de nuevas funcionalidades en sistemas ERP (Syscar ERP, Sys-Nómina) y aplicaciones móviles (Ctrl-Tráfico, Ctrl Conductor).\n— Soporte técnico y solución de errores (bugs) garantizando rendimiento estable.\n— Elaboración de documentación técnica detallada para continuidad del desarrollo."
     },
     {
       "id": 2,
       "empresa": "Wikan BPO, Medellín",
       "puesto": "FullStack Software Developer",
       "fecha": "Enero 2024 - Septiembre 2024",
-      "descripcion": [
-        "— Desarrollo e implementación de funcionalidades para Appta, software de gestión del Talento Humano.",
-        "— Personalización de funcionalidades según necesidades específicas de cada negocio.",
-        "— Desarrollo de nueva aplicación para gestión de pagos de nómina PYME."
-      ]
+      "descripcion": "— Desarrollo e implementación de funcionalidades para Appta, software de gestión del Talento Humano.\n— Personalización de funcionalidades según necesidades específicas de cada negocio.\n— Desarrollo de nueva aplicación para gestión de pagos de nómina PYME."
     },
     {
       "id": 3,
       "empresa": "Comfama, Medellín",
       "puesto": "Frontend Software Developer",
       "fecha": "Febrero 2023 - Julio 2023",
-      "descripcion": [
-        "— Desarrollo e implementación de nuevas funcionalidades en portal de servicios corporativo.",
-        "— Pruebas exhaustivas de funcionalidades para identificar y solucionar problemas antes de usuarios finales."
-      ]
+      "descripcion": "— Desarrollo e implementación de nuevas funcionalidades en portal de servicios corporativo.\n— Pruebas exhaustivas de funcionalidades para identificar y solucionar problemas antes de usuarios finales."
     },
     {
       "id": 4,
       "empresa": "Wolkvox, Medellín",
       "puesto": "Backend Software Developer",
       "fecha": "Julio 2022 - Diciembre 2022",
-      "descripcion": [
-        "— Desarrollo e implementación de nuevas características para Wolkvox Manager.",
-        "— Creación de tableros de estadísticas embebidos para visualizar datos clave de usuarios."
-      ]
+      "descripcion": "— Desarrollo e implementación de nuevas características para Wolkvox Manager.\n— Creación de tableros de estadísticas embebidos para visualizar datos clave de usuarios."
     },
     {
       "id": 5,
       "empresa": "CESDE, Medellín",
       "puesto": "Microsoft Solution Developer",
       "fecha": "Febrero 2022 - Julio 2022",
-      "descripcion": [
-        "— Implementación de soluciones de automatización de procesos con Power Platform.",
-        "— Reducción de errores humanos y mejora de precisión de datos."
-      ]
+      "descripcion": "— Implementación de soluciones de automatización de procesos con Power Platform.\n— Reducción de errores humanos y mejora de precisión de datos."
     },
     {
       "id": 6,
       "empresa": "Ingeniería y Encofrados, Sabaneta",
       "puesto": "Analista de Sistemas",
       "fecha": "Julio 2016 - Septiembre 2021",
-      "descripcion": [
-        "— Gestión de servidores y máquinas virtuales en entornos GNU/Linux y Windows.",
-        "— Administración de infraestructura de telefonía IP con FreePBX.",
-        "— Implementación y gestión del Directorio Activo (Active Directory) con políticas de seguridad.",
-        "— Configuración y administración de firewall Fortinet para protección perimetral.",
-        "— Supervisión de redes, telecomunicaciones y ciberseguridad.",
-        "— Implementación de estrategias de backup y recuperación de datos.",
-        "— Implementación y administración de soluciones ERP Siesa Enterprise.",
-        "— Soporte técnico y asesoría a usuarios finales."
-      ]
+      "descripcion": "— Gestión de servidores y máquinas virtuales en entornos GNU/Linux y Windows.\n— Administración de infraestructura de telefonía IP con FreePBX.\n— Implementación y gestión del Directorio Activo (Active Directory) con políticas de seguridad.\n— Configuración y administración de firewall Fortinet para protección perimetral.\n— Supervisión de redes, telecomunicaciones y ciberseguridad.\n— Implementación de estrategias de backup y recuperación de datos.\n— Implementación y administración de soluciones ERP Siesa Enterprise.\n— Soporte técnico y asesoría a usuarios finales."
     },
     {
       "id": 7,
       "empresa": "Inversiones Ferbienes, Sabaneta",
       "puesto": "Auxiliar de Sistemas",
       "fecha": "Enero 2015 - Junio 2016",
-      "descripcion": [
-        "— Mantenimiento preventivo y correctivo de equipos informáticos.",
-        "— Diagnóstico y resolución de fallas de hardware y software.",
-        "— Soporte técnico directo a usuarios finales."
-      ]
+      "descripcion": "— Mantenimiento preventivo y correctivo de equipos informáticos.\n— Diagnóstico y resolución de fallas de hardware y software.\n— Soporte técnico directo a usuarios finales."
     }
   ],
   "formacion": [
